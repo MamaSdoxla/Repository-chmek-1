@@ -1,0 +1,7 @@
+H:\4 корпус\пердун сво бомбить бубубу\1\ApplicationSettings Фамилия\ApplicationSettings Фамилия\obj\Debug\ApplicationSettings Фамилия.csprojAssemblyReference.cache
+H:\4 корпус\пердун сво бомбить бубубу\1\ApplicationSettings Фамилия\ApplicationSettings Фамилия\obj\Debug\Pages\Settings.g.cs
+H:\4 корпус\пердун сво бомбить бубубу\1\ApplicationSettings Фамилия\ApplicationSettings Фамилия\obj\Debug\Приложение.g.cs
+H:\4 корпус\пердун сво бомбить бубубу\1\ApplicationSettings Фамилия\ApplicationSettings Фамилия\obj\Debug\App.g.cs
+H:\4 корпус\пердун сво бомбить бубубу\1\ApplicationSettings Фамилия\ApplicationSettings Фамилия\obj\Debug\ApplicationSettings Фамилия_MarkupCompile.cache
+H:\4 корпус\пердун сво бомбить бубубу\1\ApplicationSettings Фамилия\ApplicationSettings Фамилия\obj\Debug\ApplicationSettings Фамилия_MarkupCompile.lref
+H:\4 корпус\пердун сво бомбить бубубу\1\ApplicationSettings Фамилия\ApplicationSettings Фамилия\obj\Debug\MainWindow.g.cs
